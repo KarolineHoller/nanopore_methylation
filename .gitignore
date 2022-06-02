@@ -3,5 +3,7 @@
 *.zip
 */unused_csvs
 
+*.dna
+*/*.dna
 
 .ipynb_checkpoints/
