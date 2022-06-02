@@ -6,4 +6,7 @@
 *.dna
 */*.dna
 
+wt_REP2_noNA/
+Nanopore_Data_Origins_Anna_Chanou/
+
 .ipynb_checkpoints/
