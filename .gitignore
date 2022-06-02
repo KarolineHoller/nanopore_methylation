@@ -1,3 +1,7 @@
- */unused_files
- *.zip
- */unused_csvs
+
+*/unused_files
+*.zip
+*/unused_csvs
+
+
+.ipynb_checkpoints/
