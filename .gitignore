@@ -3,10 +3,15 @@ episcanpy_test/
 *.zip
 */unused_csvs
 */plot_data
-≈‚
 *.dna
 */*.dna
+*/*.fa
+*/*.bed
+*/*/*.svg
+*.bed
+*.fasta
 
+Methods.docx
 wt_REP2_noNA/
 Nanopore_Data_Origins_Anna_Chanou/
 
