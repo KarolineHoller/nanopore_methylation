@@ -10,9 +10,13 @@ episcanpy_test/
 */*/*.svg
 *.bed
 *.fasta
+*/plots/
+*.pdf
+*.docx
 
-Methods.docx
+wt_rep4/
 wt_REP2_noNA/
+
 Nanopore_Data_Origins_Anna_Chanou/
 
 .ipynb_checkpoints/
