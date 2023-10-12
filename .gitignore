@@ -13,6 +13,7 @@ episcanpy_test/
 
 *.pdf
 *.docx
+*plots
 
 wt_rep4/
 wt_REP2_noNA/
