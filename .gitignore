@@ -10,6 +10,8 @@ episcanpy_test/
 */*/*.svg
 *.bed
 *.fasta
+*.fa
+*.xlsx
 
 *.pdf
 *.docx
